@@ -1,0 +1,29 @@
+{
+  "name": "todo-redux-project-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shakil53/todo-redux-project-server.git"
+  },
+  "keywords": [
+    "todos"
+  ],
+  "author": "md shakil ahmed github- Shakil53",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shakil53/todo-redux-project-server/issues"
+  },
+  "homepage": "https://github.com/Shakil53/todo-redux-project-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
